@@ -1,0 +1,5 @@
+/Users/daniel/Documents/MCUXpressoIDE_11.7.0_9198/workspace/Pad2/drivers/fsl_power.h:152:20:POWER_DisablePD	0	static
+../board/clock_config.c:65:6:BOARD_BootClockFRO18M	16	static
+../board/clock_config.c:36:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:106:6:BOARD_BootClockFRO24M	16	static
+../board/clock_config.c:144:6:BOARD_BootClockFRO30M	16	static

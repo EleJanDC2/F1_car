@@ -1,0 +1,9 @@
+/Users/daniel/Documents/MCUXpressoIDE_11.7.0_9198/workspace/Pad2/drivers/fsl_clock.h:368:20:CLOCK_EnableClock	0	static
+../board/pin_mux.c:56:6:BOARD_InitPins	0	static
+../board/pin_mux.c:83:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:164:6:BOARD_InitDEBUG_UARTPins	8	static
+../board/pin_mux.c:223:6:BOARD_InitSWD_DEBUGPins	8	static
+../board/pin_mux.c:295:6:BOARD_InitI2CPins	8	static
+../board/pin_mux.c:355:6:BOARD_InitBUTTONsPins	24	static
+../board/pin_mux.c:423:6:BOARD_InitISPIPins	8	static
+../board/pin_mux.c:32:6:BOARD_InitBootPins	8	static
