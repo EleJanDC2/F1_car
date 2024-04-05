@@ -1,0 +1,8 @@
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_ctimer.h:379:20:CTIMER_EnableInterrupts	16	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+../board/peripherals.c:134:13:SPI0_init	8	static
+../board/peripherals.c:188:13:CTIMER0_init	16	static
+../board/peripherals.c:205:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:215:6:BOARD_InitBootPeripherals	8	static

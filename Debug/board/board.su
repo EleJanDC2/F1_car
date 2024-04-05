@@ -1,0 +1,2 @@
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_clock.h:390:20:CLOCK_Select	16	static
+../board/board.c:25:10:BOARD_InitDebugConsole	16	static

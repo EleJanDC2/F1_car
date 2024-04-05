@@ -1,0 +1,11 @@
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/CMSIS/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/CMSIS/core_cm0plus.h:1058:26:SysTick_Config	16	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+../source/Pad2.c:15:6:setSpeed	16	static
+../source/Pad2.c:41:6:setDirection	8	static
+../source/Pad2.c:87:6:cbTimer	16	static
+../source/Pad2.c:96:13:MasterStartTransfer	16	static
+../source/Pad2.c:112:5:mapSpeedValue	40	static
+../source/Pad2.c:130:6:readingController	16	static
+../source/Pad2.c:164:6:SysTick_Handler	8	static
+../source/Pad2.c:169:5:main	16	static

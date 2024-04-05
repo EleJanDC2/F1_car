@@ -1,0 +1,7 @@
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_clock.h:390:20:CLOCK_Select	16	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_clock.h:422:20:CLOCK_SetCoreSysClkDiv	16	static
+/home/elejandc/Documents/MCUXpresso_11.8.0_1165/workspace/Pad3/drivers/fsl_power.h:152:20:POWER_DisablePD	16	static
+../board/clock_config.c:36:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:65:6:BOARD_BootClockFRO18M	8	static
+../board/clock_config.c:106:6:BOARD_BootClockFRO24M	8	static
+../board/clock_config.c:144:6:BOARD_BootClockFRO30M	8	static
